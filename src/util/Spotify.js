@@ -2,7 +2,7 @@ let accessToken;
 
 const client_id = '69c2ecfa63374d56b589ce9d524d27b1';
 
-const redirect_uri = 'http://localhost:3000/';
+const redirect_uri = 'http://testlicious.surge.sh/';
 
 const Spotify = {
     getAccessToken() {
