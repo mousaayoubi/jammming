@@ -22,7 +22,11 @@ class SearchBar extends React.Component {
         if (event.key === 'Enter') {
             this.search();
         }
+<<<<<<< HEAD
     }
+=======
+    };
+>>>>>>> 781d5b0be7dfe14fb9cb26915c43ec552a2b8e29
 
     render() {
         return (

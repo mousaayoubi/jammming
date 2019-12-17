@@ -26,9 +26,15 @@ h2 {
   font-size: 1.55rem;
 }
 
+<<<<<<< HEAD
 h3.subtitle {
   padding: .77rem 0;
   background-color: #010c3f;
+=======
+h3 {
+  padding: .77rem 0;
+  background-color: #6c41ec;
+>>>>>>> 781d5b0be7dfe14fb9cb26915c43ec552a2b8e29
   text-align: center;
   font-family: 'Poppins', sans-serif;
   font-size: 1rem;
